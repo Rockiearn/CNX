@@ -20,14 +20,8 @@
    - Catplot (AHT)
    - Catplot (Answered)
 
-6. Relationship Analysis
-   - Scatter
-   - Correlation
-
-7. Outlier Analysis
-
-8. Statistical Assumption Checking
+6. Statistical Assumption Checking
    - Shapiro
    - Levene
 
-9. Hypothesis Testing
+7. Hypothesis Testing
